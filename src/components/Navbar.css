@@ -1,0 +1,13 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.each-item{
+    display: flex;
+    align-items: center;
+}
+
+.hove:hover{
+    cursor: pointer;
+}
